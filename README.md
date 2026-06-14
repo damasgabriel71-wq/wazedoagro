@@ -314,6 +314,25 @@ http://localhost:8080/peres/wazedoagro/public
 
 ---
 
+## 📸 Prints das Principais Telas
+
+### Página Inicial
+![Home](screenshots/home.png)
+
+### Login
+![Login](screenshots/login.png)
+
+### Área do Cliente
+![Cliente](screenshots/cliente.png)
+
+### Produtos
+![Produtos](screenshots/produtos.png)
+
+### Serviços
+![Serviços](screenshots/servicos.png)
+
+### Painel Administrativo
+![Admin](screenshots/admin.png)
 ## 👨‍💻 Autor
 
 **Gabriel Damas**
