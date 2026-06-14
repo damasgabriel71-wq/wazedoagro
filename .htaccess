@@ -1,0 +1,5 @@
+Options -Indexes
+RewriteEngine On
+
+RewriteCond %{REQUEST_URI} !^/peres/wazedoagro/public/
+RewriteRule ^(.*)$ /peres/wazedoagro/public/$1 [L]
